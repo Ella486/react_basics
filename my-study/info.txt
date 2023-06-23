@@ -1,0 +1,5 @@
+my-study 프로젝트는
+react, node.js의 express, mysql 사용해서
+간단히 client와 server가 어떻게 작동하는지에 대한
+개념을 익히기 위해서 진짜 진짜 간단히 
+DB에 값을 저장하고 불러오는 것을 시도해본 결과물이다.
